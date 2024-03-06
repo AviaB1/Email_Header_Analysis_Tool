@@ -12,3 +12,6 @@ Language Detection: Detect the language used in the email to better understand i
 Simply provide the path to the email file you want to analyze.
 The tool parses the email headers, extracts relevant information, and performs comprehensive analysis.
 Users receive detailed insights into the authenticity, security, and language characteristics of the email.
+
+# A bit more about this project:
+So basically, I was extremely bored and wanted to improve my Python skills. Also, I really wanted to have a GitHub project because it sounds cool! (; I did this project for the fun of it and nothing more. There are a lot of functionalities I could have added, but I wasn't in the mood for that. And also, the code isn't perfect in any way; again - just for the fun of it.
