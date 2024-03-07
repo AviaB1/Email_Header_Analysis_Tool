@@ -4,9 +4,12 @@ Hello, and thank you for choosing my tool! 😊 This tool is designed to provide
 # Key Features:
 
 Email Header Extraction: Gain valuable information about the sender, recipient, subject, and other crucial details from email headers.
+
 Attachment Scanning: Scan all attachments for potential threats and identify any malicious content using VT
+
 Link Enumeration: List all the links found within the email body, allowing you to review them for authenticity and safety.
-Language Detection: Detect the language used in the email to better understand its context and origin.
+
+Language Detection: Detect the language used in the email to better understand its context and origin (not 100% accurate).
 
 # Usage:
 Simply provide the path to the email file you want to analyze.
